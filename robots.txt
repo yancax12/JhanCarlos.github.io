@@ -1,0 +1,7 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://yancax12.github.io/sitemap-index.xml
+
+
